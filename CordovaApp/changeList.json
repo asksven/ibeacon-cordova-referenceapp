@@ -1,0 +1,14 @@
+{
+  "changedFilesIos": [],
+  "deletedFilesIos": [],
+  "addedPluginsIos": [],
+  "deletedPluginsIos": [],
+  "changedFiles": [
+    "plugins\\android.json",
+    "config.xml",
+    "plugins\\remote_ios.json"
+  ],
+  "deletedFiles": [],
+  "addedPlugins": [],
+  "deletedPlugins": []
+}
